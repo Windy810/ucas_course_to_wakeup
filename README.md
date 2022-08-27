@@ -6,9 +6,13 @@
 
 - 脚本运行过程：
 
-  <img src="/demo/demo.jpg" style="zoom:67%;" />
+  <img src="/demo/demo3.png" style="zoom:67%;" />
 
-- 导入手机后的效果：
+- csv导入wakeup课程表以后的效果：
+
+  <img src="/demo/demo5.jpg" style="width:300px;" />
+
+- ics导入手机后的效果：
 
   <img src="/demo/demo2.jpg" style="width:300px;" />
 
@@ -38,10 +42,16 @@
     可选参数：`-o FILE`，可指定输出文件名，默认为`courses.ics`。
 3. 脚本同目录下获得`courses.ics`文件。
 
-### 导入手机
+### ics导入手机
 
 - **苹果：** 把`.ics`文件发送给手机（必须以**邮件**的方式，可以发邮件给自己），在邮件中打开附件，即可导入。
 - **安卓：** 把`.ics`文件发送给手机，并使用系统自带的日历程序打开（如华为系统叫"华为日历"），即可导入。
+
+### csv导入wakeup课程表
+
+<img src="/demo/demo4.jpg" style="width:300px;" />
+
+附wakeup课程表下载地址：[https://www.wakeup.fun/](https://www.wakeup.fun/)
 
 ### 提示
 
